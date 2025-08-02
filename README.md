@@ -7,7 +7,7 @@ This project is a beginner-friendly SQL analysis of a Music Store database using
 ---
 
 ## 📂 Project Structure
-```bash
+```css
 SQL-Music-Store-Analysis/
 │
 ├── SQL_Queries/ # All SQL scripts used in the project
