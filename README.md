@@ -15,7 +15,7 @@ SQL-Music-Store-Analysis/
 ├── PDF_Report/ # Final PDF report (visual summary)
 ├── Screenshots/ # Query results or insights
 └── README.md # Project overview and instructions
-
+```
 
 ---
 
